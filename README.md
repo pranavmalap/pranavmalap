@@ -40,13 +40,13 @@
 <div align="center">
 
 <a href="https://github.com/pranavmalap/talentlens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranavmalap&repo=talentlens&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-six-fawn-83.vercel.app/api/pin/?username=pranavmalap&repo=talentlens&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/pranavmalap/unfallhub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranavmalap&repo=unfallhub&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-six-fawn-83.vercel.app/api/pin/?username=pranavmalap&repo=unfallhub&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/pranavmalap/innosteelix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pranavmalap&repo=innosteelix&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-six-fawn-83.vercel.app/api/pin/?username=pranavmalap&repo=innosteelix&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -62,8 +62,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavmalap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavmalap&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-six-fawn-83.vercel.app/api?username=pranavmalap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-six-fawn-83.vercel.app/api/top-langs/?username=pranavmalap&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
