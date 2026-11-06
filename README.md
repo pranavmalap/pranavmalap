@@ -147,6 +147,14 @@ My contributions ([#3](https://github.com/snrahman01/denkbyte-website/pull/3), [
 ## GitHub stats
 
 <div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavmalap&theme=github_dark" alt="Contribution graph and profile summary" />
+</div>
+
+<div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=pranavmalap&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_rank=true&hide=stars" alt="Pranav's GitHub stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranavmalap&layout=compact&theme=github_dark&hide_border=true&hide=blade" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=pranavmalap&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Contribution streak" />
 </div>
