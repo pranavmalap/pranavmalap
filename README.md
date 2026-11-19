@@ -156,5 +156,5 @@ My contributions ([#3](https://github.com/snrahman01/denkbyte-website/pull/3), [
 </div>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=pranavmalap&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Contribution streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=pranavmalap&theme=github-dark-blue&hide_border=true&background=0D1117&mode=weekly" alt="Contribution streak" />
 </div>
